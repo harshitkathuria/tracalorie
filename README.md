@@ -1,2 +1,2 @@
 # tracolorie
-An application to track calories
+Keep a track of your calories
