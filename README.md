@@ -1,3 +1,3 @@
-# tracalorie
+# TRACALORIE
 
-Keep a track of your calories
+An application designed to keep a track of your calories
